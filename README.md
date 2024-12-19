@@ -115,3 +115,16 @@ Data analysis provides heaps of information but remember to focus on the informa
 Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
 
 Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
+
+## **Data Presentation**
+[Data Presentation Slides](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%203/TATA%20Data%20Presentation%20Slides.pdf)
+
+[Data Presentation Video](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%203/TATA%20Data%20Presentation.mp4)
+
+
+https://github.com/user-attachments/assets/00baac4f-259f-4eaa-87f9-f1e35a0cce0b
+
+
+
+
+
