@@ -16,7 +16,7 @@ You’ve been provided a dataset in the resources below to use as the basis for 
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-**Questions**
+## **Questions**
 
 Found [here](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%201/Questions)
 
