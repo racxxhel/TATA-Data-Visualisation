@@ -77,6 +77,11 @@ The CMO of the online retail store wants to view the information on the top 10 c
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
+**Dashboard snippet
+![TATA Visualization Dashboard Snapshot](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%202/Online%20Retail%20Data%20Set%20Dashboard.pdf)
+
+Interactive dashboard can be downloaded here - [Dashboard powerbi report](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%202/TATA%20Dashboard.pbix)
+
 ## **Task 3 - Communicating Insights and Analysis**
 Effectively communicate your findings and explain how it relates to each scenario
 
