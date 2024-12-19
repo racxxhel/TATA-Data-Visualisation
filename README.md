@@ -4,16 +4,6 @@ The virtual experience programme is provided by Tata Group. Through this program
 
 The programme demonstrates the kind of issues dealt with by Tata Group every day and makes an effort to imitate the difficulties an individual could have.
 
-## **There are 4 modules in this virtual experience programme.**
-
-**↠ Framing the Business Scenario**
-
-**↠ Choosing the Right Visuals**
-
-**↠ Creating Effective Visuals**
-
-**↠ Communicating Insights and Analysis**
-
 ## **Task 1 - Framing the Business Scenario**
 Learn how to anticipate the questions your business leaders will need answers to.
 
@@ -41,24 +31,7 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-## **Task 2 - Choosing the Right Visuals**
-Learn which visuals are most effective in a given scenario
-
-**Background info and context**
-
-You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
-
-You will be provided multiple visualisation requests by the CEO and you would need to provide the visual which would explain the data and insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. Therefore, you would need to make sure that the correct visuals are used to represent each set of data.
-
-**Details for task**
-
-In this task, you will be required to read the questions carefully and understand that business requirement. Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
-
-You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
-
-To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
-
-## **Task 3 - Creating Effective Visuals**
+## **Task 2 - Creating Effective Visuals**
 Apply your under and create visuals based on business scenarios
 
 **Background info and context**
@@ -104,7 +77,7 @@ The CMO of the online retail store wants to view the information on the top 10 c
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-## **Task 4 - Communicating Insights and Analysis**
+## **Task 3 - Communicating Insights and Analysis**
 Effectively communicate your findings and explain how it relates to each scenario
 
 **Background info and context**
