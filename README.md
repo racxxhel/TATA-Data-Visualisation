@@ -80,7 +80,14 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 **Dashboard snippet
 ![TATA Visualization Dashboard snippet](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%202/TATA%20Dashboard%20snippet.png)
 
-Interactive dashboard can be downloaded here - [Dashboard powerbi report](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%202/TATA%20Dashboard.pbix)
+**Demonstration of dashboard
+
+
+https://github.com/user-attachments/assets/9b36670b-853a-4491-91b9-a973b8ea11ae
+
+
+
+Interactive dashboard can be downloaded [here](https://github.com/racxxhel/TATA-Data-Visualisation/blob/main/Task%202/TATA%20Dashboard.pbix)
 
 ## **Task 3 - Communicating Insights and Analysis**
 Effectively communicate your findings and explain how it relates to each scenario
