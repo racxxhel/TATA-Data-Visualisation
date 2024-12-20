@@ -1,6 +1,6 @@
 # TATA Data Visualisation Empowering Business with Effective Insights
 
-The virtual experience programme is provided by Tata Group. Through this program, I learn how passionate, multidisciplinary experts frame different business scenarios and use data visualization tools such as Tableau and Power BI to uncover valuable insights hidden within vast amounts of data.
+The virtual experience programme is provided by Tata Group. Through this program, I learn how passionate, multidisciplinary experts frame different business scenarios and use Excel to clean the data before utilising data visualization tools such as Power BI to uncover valuable insights hidden within vast amounts of data.
 
 The programme demonstrates the kind of issues dealt with by Tata Group every day and makes an effort to imitate the difficulties an individual could have.
 
